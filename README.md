@@ -1,2 +1,2 @@
 # ScannerCodes
-Scanner QB and UPC codes
+Scanner QR and UPC codes
